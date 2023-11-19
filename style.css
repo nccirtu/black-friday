@@ -1,0 +1,25 @@
+#blackfridayPopup .modal-body {
+    display: grid;
+}
+
+#blackfridayPopup .position-absolute-center {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#button-4-popup {
+    box-shadow: -4px -3px 45px 21px rgba(0, 0, 0, 0.35);
+}
+
+#close-btn {
+    color: white; 
+    background-color: transparent; 
+    border: none;
+}
+
+#modal-content {
+    background-color: transparent; 
+    border: none;
+}
